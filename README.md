@@ -1,6 +1,6 @@
 # Lightweight Lexer Written in Rust 
 
-This project is experimentation on a programming language I am planing to write. Also I wanted to learn to learn the fundamentals of **Rust Language**. 
+This project is experimentation on a programming language I am planing to write. Also I wanted to learn the fundamentals of **Rust Language**. 
 *NOTE: This is a lexer. Not a lexer generator*    
 
 ## Possible Future Modifications 
